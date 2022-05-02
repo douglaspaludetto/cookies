@@ -1,0 +1,14 @@
+.banner {
+    display: flex;
+    width: auto;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: space-around;
+    height: 400px;
+    margin: 40px;
+    border: 5px solid white;
+    border-radius: 50px;
+    background-color: rgb(180, 228, 255);
+    padding: 20px;
+    box-shadow: 0 0 8px rgb(199, 198, 198);
+}
